@@ -1,5 +1,37 @@
 //=================================================================================================================================
 
+event HudHealthBonusPulse
+{
+	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"				Linear 0.0 0.2
+	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"					Linear 0.2 0.4
+	
+	Animate	PlayerHealthBG					BgColor		"BuffedColor1"		Linear 0.0 0.075
+	Animate	PlayerHealthBG					BgColor		"BuffedColor2"		Linear 0.125 0.075
+	
+	Animate	SpecPlayerHealthBG				BgColor		"BuffedColor1"		Linear 0.0 0.075
+	Animate	SpecPlayerHealthBG				BgColor		"BuffedColor2"		Linear 0.125 0.075
+	
+	Animate	PlayerHealthCrossBG				BgColor		"BuffedColor1"		Linear 0.0 0.075
+	Animate	PlayerHealthCrossBG				BgColor		"BuffedColor2"		Linear 0.125 0.075
+	
+	RunEvent HudHealthBonusPulseLoop		0.4
+}
+
+event HudHealthBonusPulseLoop
+{
+	RunEvent HudHealthBonusPulse 			0.0
+}
+
+event HudHealthBonusPulseStop
+{
+	StopEvent HudHealthBonusPulse 			0.0
+	StopEvent HudHealthBonusPulseLoop 		0.0
+}
+
+//=================================================================================================================================
+
+//=================================================================================================================================
+
 event HudHealthDyingPulse
 {
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"				Linear 0.0 0.075

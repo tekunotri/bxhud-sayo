@@ -9,8 +9,8 @@ Scheme
 	
 		"main"												"129 209 244 255"
 	
-		"BuffedColor1"										"255 255 255 255"
-		"BuffedColor2"										"0 0 0 255"	
+		"BuffedColor1"										"129 209 244 255"
+		"BuffedColor2"										"139 217 250 255"	
 		
 		"LowColor1"											"177 0 0 255"	
 		"LowColor2"											"255 255 255 255"			
