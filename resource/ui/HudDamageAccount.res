@@ -13,4 +13,37 @@
 		"delta_item_font"		"DamageFontSmall"
 		"delta_item_font_big"		"DamageFontSmall"
 	}
+	"DamageAccountValue"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"DamageAccountValue"
+		"xpos"										"cs-0.5"
+		"ypos"										"c40"
+		"zpos"										"2"
+		"wide"										"80"
+		"tall"										"30"
+		"visible"									"1"
+		"enabled"									"1"
+		"labelText"									"%metal%"
+		"textAlignment"								"center"
+		"fgcolor"									"White"
+		"font"										"roboto24"
+	}
+	"DamageAccountValueShadow"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"DamageAccountValueShadow"
+		"xpos"										"-1"
+		"ypos"										"-1"
+		"zpos"										"1"
+		"wide"										"80"
+		"tall"										"30"
+		"visible"									"1"
+		"enabled"									"1"
+		"labelText"									"%metal%"
+		"textAlignment"								"center"
+		"fgcolor"									"Black"
+		"font"										"roboto24"
+		"pin_to_sibling"							"DamageAccountValue"
+	}
 }
