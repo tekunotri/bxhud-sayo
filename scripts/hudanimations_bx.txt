@@ -5,8 +5,8 @@ event HudHealthBonusPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"				Linear 0.0 0.2
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"					Linear 0.2 0.4
 	
-	Animate	PlayerHealthBG					BgColor		"BuffedColor1"		Linear 0.0 0.075
-	Animate	PlayerHealthBG					BgColor		"BuffedColor2"		Linear 0.125 0.075
+	Animate	PlayerStatusHealthValue			FgColor		"BuffedColor1"		Linear 0.0 0.075
+	Animate	PlayerStatusHealthValue			FgColor		"BuffedColor2"		Linear 0.125 0.075
 	
 	Animate	SpecPlayerHealthBG				BgColor		"BuffedColor1"		Linear 0.0 0.075
 	Animate	SpecPlayerHealthBG				BgColor		"BuffedColor2"		Linear 0.125 0.075

@@ -428,8 +428,8 @@
 		"tall"	 "468"
 
 		"MaxDeathNotices" 							"5"
-		"IconScale"	  								"1"
-		"LineHeight"	  							"20"
+		"IconScale"	  								"0.55"
+		"LineHeight"	  							"16"
 		"LineSpacing"	 							"0.75"
 		"CornerRadius"	  							"0"
 		"RightJustify"	  							"1"
@@ -442,7 +442,7 @@
 		"LocalPlayerColor"							"255 255 255 255"
 
 		"BaseBackgroundColor"						"255 255 255 15"
-		"LocalBackgroundColor"						"255 255 255 45"
+		"LocalBackgroundColor"						"255 255 255 75"
 	}
 
 	"HudVehicle"
