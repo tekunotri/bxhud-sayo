@@ -165,7 +165,7 @@
 		}
 		"ConsoleText"
 		{
-			"1" { "name" "catamaran_semibold" "tall" "15" "weight" "0" "antialias" "1" }
+			"1" { "name" "catamaran_semibold" "tall" "20" "weight" "0" "antialias" "1" }
 		}
 		"DefaultFixed"
 		{
@@ -231,7 +231,7 @@
 	{
 		"5"
 		{
-			"font" "resource/fonts/catamaran-semibold.ttf"
+			"font" "resource/scheme/fonts/catamaran-semibold.ttf"
 			"name" "catamaran_semibold"
 		}
 	}
