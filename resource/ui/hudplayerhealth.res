@@ -72,7 +72,6 @@
 		"scaleImage"	"1"
 		"image"			"replay/thumbnails/star"
 	}
-
 	"starshadow"
 	{
 		"ControlName"	"ImagePanel"

@@ -14,8 +14,6 @@
 		"progress_xpos"		"79"
 		"progress_wide"		"270"
 		
-		"xpos_minmode"	"99999"
-		
 		"if_multiple_trains"
 		{
 			"tall"				"16"

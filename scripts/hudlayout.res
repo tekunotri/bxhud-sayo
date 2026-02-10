@@ -419,11 +419,11 @@
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" 							"5"
-		"IconScale"	  								"1"
-		"LineHeight"	  							"20"
+		"MaxDeathNotices" 							"8"
+		"IconScale"	  								"0.35"
+		"LineHeight"	  							"17.5"
 		"LineSpacing"	 							"0.75"
-		"CornerRadius"	  							"0"
+		"CornerRadius"	  							"0.5"
 		"RightJustify"	  							"1"
 
 		"TextFont"									"roboto12"
@@ -433,8 +433,8 @@
 		"IconColor"									"0 0 0 255"
 		"LocalPlayerColor"							"255 255 255 255"
 
-		"BaseBackgroundColor"						"255 255 255 15"
-		"LocalBackgroundColor"						"255 255 255 45"
+		"BaseBackgroundColor"						"255 255 255 10"
+		"LocalBackgroundColor"						"255 255 255 50"
 	}
 
 	"HudVehicle"
