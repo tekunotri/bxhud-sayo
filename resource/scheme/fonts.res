@@ -1327,7 +1327,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"8"
+				"tall"										"10"
 				"antialias" 								"1"
 			}
 		}
@@ -1336,7 +1336,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"9"
+				"tall"										"11"
 				"antialias" 								"1"
 			}
 		}
@@ -1345,7 +1345,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"12"
+				"tall"										"14"
 				"antialias" 								"1"
 			}
 		}
@@ -1354,7 +1354,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"18"
+				"tall"										"20"
 				"antialias"								 	"1"
 			}
 		}
@@ -1363,7 +1363,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"7"
+				"tall"										"9"
 				"antialias" 								"1"
 			}
 		}
@@ -1372,7 +1372,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"8"
+				"tall"										"10"
 				"antialias" 								"1"
 			}
 		}
@@ -1381,7 +1381,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"8"
+				"tall"										"10"
 				"antialias" 								"1"
 			}
 		}
@@ -1390,7 +1390,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"11"
+				"tall"										"13"
 				"antialias" 								"1"
 			}
 		}
@@ -1399,7 +1399,7 @@ Scheme
 			"1"
 			{
 				"name"										"catamaran_semibold"
-				"tall"										"14"
+				"tall"										"16"
 				"antialias" 								"1"
 			}
 		}
