@@ -14,7 +14,7 @@
 		"wide"									"f0"
 		"tall"									"f0"
 
-		"button_x_offset"						"-315"
+		"button_x_offset"						"-260"
 		"button_y"								"185"
 		"button_y_delta"						"2"
 

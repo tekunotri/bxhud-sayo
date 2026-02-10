@@ -287,11 +287,10 @@
 		"delta_lifetime"	"1.3"
 		"delta_item_font"	"roboto18"
 		
-		"tall_minmode"	"0"
-		
 		if_match
 		{
-			"ypos" "-20"
+			"ypos" 			"-25"
+			"ypos_minmode"	"-15"
 		}
 		
 		"TimePanelValue"
@@ -301,7 +300,8 @@
 			"font"			"roboto16"
 			"fgcolor"		"255 255 255 255"
 			"xpos"			"10"
-			"ypos"			"20"
+			"ypos"			"25"
+			"ypos_minmode"	"15"
 			"zpos"			"3"
 			"wide"			"40"
 			"tall"			"20"
@@ -317,10 +317,12 @@
 		"ControlName"								"CTFTeamStatus"
 		"fieldName"									"TeamStatus"
 		"xpos"										"rs0.67"//"s-0.32"
+		"xpos_minmode"								"cs-0.5"	
 		"ypos"										"0"
+		"ypos_minmode"								"17"
 		"zpos"										"2"
 		"wide"										"f0"
-		"tall"										"11"
+		"tall"										"13"
 		"visible"									"1"
 		"enabled"									"1"
 

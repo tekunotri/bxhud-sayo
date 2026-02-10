@@ -10,8 +10,6 @@
 		"tall"				"f0"
 		"visible"			"1"
 		"enabled"			"1"
-		
-		"xpos_minmode"	"99999"
 	}
 	
 	"mem"
