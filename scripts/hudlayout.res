@@ -193,8 +193,6 @@
 		"tall"										"f0"
 		"visible" 									"1"
 		"enabled" 									"1"
-		
-		"tall_minmode" "0"
 	}
 
 	"DisguiseStatus"
@@ -217,8 +215,6 @@
 		"xpos"	"c-126"	"ypos"	"250"	"wide"	"252"	"tall"	"30"
 		
 		"priority"	"40"
-		
-		"tall_minmode" "0"
 	}
 	
 	CSpectatorTargetID
@@ -232,8 +228,6 @@
 		"priority"	"40"
 		
 		"x_offset" "20"	"y_offset" "20"
-		
-		"tall_minmode" "0"
 	}
 	
 	CSecondaryTargetID
@@ -245,8 +239,6 @@
 		"xpos"	"c-126"	"ypos"	"280"	"wide"	"252"	"tall"	"30"
 		
 		"priority"	"35"
-		
-		"tall_minmode" "0"
 	}
 
 	"BuildingAnchor"
@@ -784,8 +776,6 @@
 		"tall"										"f0"
 		"zpos"										"6"
 		"proportionaltoparent"						"1"
-		
-		"tall_minmode" "0"
 	}
 
 	"ArenaWinPanel"
@@ -832,8 +822,6 @@
 		"ypos"										"0"
 		"wide"										"f0"
 		"tall"										"f0"
-		
-		"tall_minmode" "0"
 	}
 
 	"FreezePanelCallout"

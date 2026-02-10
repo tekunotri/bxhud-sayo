@@ -11,8 +11,6 @@
 		"tall"		"21"
 		"visible"	"1"
 		"enabled"	"1"
-		
-		"tall_minmode"	"0"
 	}
 	
 	"Countdown"

@@ -63,8 +63,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"star"
 		"xpos"			"c11"
-		"xpos_minmode"	"c11" // "c-35" "c11"
-		"ypos"			"c67" // "c67" "c94"
+		"ypos"			"c67"
 		"zpos"			"7"
 		"wide"			"24"
 		"tall"			"24"
@@ -73,7 +72,7 @@
 		"scaleImage"	"1"
 		"image"			"replay/thumbnails/star"
 	}
-	
+
 	"starshadow"
 	{
 		"ControlName"	"ImagePanel"

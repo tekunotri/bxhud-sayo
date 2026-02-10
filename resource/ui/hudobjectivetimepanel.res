@@ -17,8 +17,6 @@
 		"labelText"	"#game_WaitingForPlayers"	"textAlignment"	"center"
 		
 		"fgcolor"	"255 255 255 255"
-		
-		"tall_minmode"	"0"
 	}			
 	"WaitingForPlayersBG"	{	"ControlName"	"CTFImagePanel"	"fieldName"	"WaitingForPlayersBG"	"xpos"	"999999"	}
 	
@@ -33,8 +31,6 @@
 		"labelText"	"#game_Overtime"	"textAlignment"	"center"
 
 		"fgcolor"	"255 255 255 255"
-		
-		"tall_minmode"	"0"
 	}	
 	
 	"OvertimeBG"	{	"ControlName"	"CTFImagePanel"	"fieldName"	"OvertimeBG"	"xpos"	"999999"	}
@@ -50,8 +46,6 @@
 		"labelText"	"#game_SuddenDeath"	"textAlignment"	"center"
 
 		"fgcolor"	"255 255 255 255"
-		
-		"tall_minmode"	"0"
 	}
 	
 	"SuddenDeathBG"	{	"ControlName"	"CTFImagePanel"	"fieldName"	"SuddenDeathBG"	"xpos"	"999999"	}
@@ -67,8 +61,6 @@
 		"labelText"	"#game_Setup"	"textAlignment"	"center"
 
 		"fgcolor"	"255 255 255 255"
-		
-		"tall_minmode"	"0"
 	}	
 	
 	"SetupBG"	{	"ControlName"	"CTFImagePanel"	"fieldName"	"SetupBG"	"xpos"	"999999"	}
@@ -84,8 +76,6 @@
 		"labelText"	"%servertimeleft%"	"textAlignment"	"center"
 
 		"fgcolor"	"255 255 255 255"
-		
-		"tall_minmode"	"0"
 	}
 	
 	"ServerTimeLimitLabelBG"
