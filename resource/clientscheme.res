@@ -15,18 +15,3 @@
 ///////////////////////////////////////////
 
 #base "scheme/borders.res"
-
-Scheme
-{
-	Fonts
-	{
-		// removes watermark on some servers
-		
-		CenterPrintText	{	"1"	{	"name"	"Adobe Blank"	}	}			
-	}
-	
-	CustomFontFiles	
-	{
-		"10"	{	"font" "resource/scheme/fonts/blank.ttf"	"name" "Adobe Blank"	}	
-	}
-}	

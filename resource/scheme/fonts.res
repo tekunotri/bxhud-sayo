@@ -2,6 +2,18 @@ Scheme
 {
 	Fonts
 	{
+		"CenterPrintText"
+		{
+			"1"
+			{
+				"name"		"catamaran_semibold"
+				"Tall"		"18"
+				"weight"	"900"
+				"antialias"	"1"
+				"additive"	"1"
+			}
+		}
+		"
 		"DamageFont"
 		{
 			"1"
