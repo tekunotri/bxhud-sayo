@@ -13,7 +13,6 @@ Scheme
 				"additive"	"1"
 			}
 		}
-		"
 		"DamageFont"
 		{
 			"1"
