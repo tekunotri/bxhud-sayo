@@ -10,7 +10,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"AccountValue"
 		"xpos"										"cs-0.5"
-		"ypos"										"cs-0.5+20"
+		"ypos"										"cs-0.5+15"
 		"zpos"										"2"
 		"wide"										"100"
 		"tall"										"20"
@@ -37,7 +37,7 @@
 		"labelText"									"%metal%"
 		"textAlignment"								"center"
 		"font"										"HudFontSmall"
-		"fgcolor"   								"0 0 0 130"
+		"fgcolor"   								"0 0 0 255"
 		"pin_to_sibling"   							"AccountValue"
 	}
 
